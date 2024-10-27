@@ -4,15 +4,17 @@
 * **Instructor, Computer Programming and Development** | [Wake Technical Community College](https://www.waketech.edu/)
   * Java Programming
   * Web Programming and Database Foundations
+    * [CTI 110: github.io](https://github.com/rtillies/rtillies.github.io)
 
 * **Instructor, Web & Software Development** | [Durham Technical Community College](https://www.durhamtech.edu/)
   * Swift Programming
+    * [Develop in Swift Fundamentals: Xcode 15](https://github.com/rtillies/SwiftFundamentals15)
   * Java Programming
  
 * **Instructor, Computer Science & Math** | [AoPS Academy Morrisville](https://morrisville.aopsacademy.org/)
-  * Java Development
+  * Computer Science: Java Development
   * Beast Academy (Grades 2-5)
-  * Pre-Algebra, Algebra
+  * Pre-Algebra & Algebra 1
 
 
 <!--
