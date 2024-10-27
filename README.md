@@ -2,14 +2,14 @@
 
 ### Current Roles:
 * **Instructor, Computer Programming and Development** | [Wake Technical Community College](https://www.waketech.edu/)
-  * Java Programming
-  * Web Programming and Database Foundations
-    * [CTI 110: github.io](https://github.com/rtillies/rtillies.github.io)
+  * CSC 151: Java Programming
+  * CTI 110: Web Programming and Database Foundations
+    * [Repo](https://github.com/rtillies/rtillies.github.io): rtillies.github.io
 
 * **Instructor, Web & Software Development** | [Durham Technical Community College](https://www.durhamtech.edu/)
-  * Swift Programming
-    * [Develop in Swift Fundamentals: Xcode 15](https://github.com/rtillies/SwiftFundamentals15)
-  * Java Programming
+  * CSC 118: Swift Programming
+    * [Repo](https://github.com/rtillies/SwiftFundamentals15): Develop in Swift Fundamentals Xcode 15
+  * CSC 151: Java Programming
  
 * **Instructor, Computer Science & Math** | [AoPS Academy Morrisville](https://morrisville.aopsacademy.org/)
   * Computer Science: Java Development
