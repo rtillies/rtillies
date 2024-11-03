@@ -1,13 +1,12 @@
 # From the Desk of Professor T 🎓
 
-## Current Roles
+## Teaching Roles
 
 <details>
   <summary>Wake Technical Community College</summary>
 
- ### Details
-  * Role: Instructor, Computer Programming and Development
-  * Website: [Wake Technical Community College](https://www.waketech.edu/)
+ ### Instructor, Computer Programming and Development
+  * [Wake Tech website](https://www.waketech.edu/)
   * Courses:
     * **CSC 151**: Java Programming
     * **CTI 110**: Web Programming and Database Foundations
@@ -18,9 +17,8 @@
 <details>
   <summary>Durham Technical Community College</summary>
 
- ### Details
-  * Role: **Instructor, Web & Software Development** 
-  * Website: [Durham Technical Community College](https://www.durhamtech.edu/)
+ ### Instructor, Web & Software Development
+  * [Durham Tech website](https://www.durhamtech.edu/)
   * Courses:
     * **CSC 118**: Swift Programming
       * **[Repo](https://github.com/rtillies/SwiftFundamentals15)**: Develop in Swift Fundamentals Xcode 15
@@ -31,13 +29,21 @@
 <details>
   <summary>AoPS Academy Morrisville</summary>
 
- ### Details
-  * Role: **Instructor, Computer Science & Math**
-  * Website: [AoPS Academy Morrisville](https://morrisville.aopsacademy.org/)
+ ### Instructor, Computer Science & Math
+  * [AoPS Academy website](https://morrisville.aopsacademy.org/)
   * Courses:
     * **Computer Science**: Java Development
     * **Beast Academy** (Grades 2-5)
     * **Pre-Algebra** & **Algebra 1**
+</details>
+
+## Major Projects
+<details>
+  <summary>Black Belt Spades</summary>
+   
+  ### Render and GitHub
+  * Render: **_[Black Belt Spades](https://black-belt-spades.onrender.com/)_**
+  * GitHub: **_[Black Belt Spades](https://github.com/rtillies/black-belt-spades)_**
 </details>
 
 <!--
