@@ -46,6 +46,15 @@
   * GitHub: **_[Black Belt Spades](https://github.com/rtillies/black-belt-spades)_**
 </details>
 
+<details>
+  <summary>World Series of Spades</summary>
+   
+  ### Projects
+  * [Scoreboard](https://github.com/rtillies/spades_scoreboard)
+  * [Season 2](https://github.com/rtillies/wsos_spades_stats)
+  * [Season 3](https://github.com/rtillies/wsos-season-3)
+</details>
+
 <!--
 ### Current Roles:
 * **Instructor, Computer Programming and Development** | [Wake Technical Community College](https://www.waketech.edu/)
