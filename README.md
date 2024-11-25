@@ -55,6 +55,12 @@
   * [Season 3](https://github.com/rtillies/wsos-season-3)
 </details>
 
+<details>
+  <summary>Professor T Codes</summary>
+   
+  ### Repositories for classwork and homework
+  * [GitHub](https://github.com/professor-t-codes)
+</details>
 <!--
 ### Current Roles:
 * **Instructor, Computer Programming and Development** | [Wake Technical Community College](https://www.waketech.edu/)
